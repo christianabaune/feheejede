@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thiecooch.brianlopez.us/sitemap.xml
